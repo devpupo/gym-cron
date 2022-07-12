@@ -1,2 +1,2 @@
-# gym-cron
+# GYM CRON
 Just a gym rest timer
